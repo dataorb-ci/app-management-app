@@ -1,7 +1,7 @@
 {
   "short_name": "App Management",
   "name": "App Management",
-  "description": "The Application Management App provides the ability to upload webapps in .zip files, as well as installing apps directly from the official DataOrb App Store",
+  "description": "The Application Management App provides the ability to upload webapps in .zip files, as well as installing apps directly from the official DHIS 2 App Store",
   "icons": [
     {
       "src": "android-chrome-192x192.png",
@@ -19,7 +19,7 @@
       "sizes": "180x180"
     },
     {
-      "src": "dataorb-app-icon.png",
+      "src": "dhis2-app-icon.png",
       "type": "image/png",
       "sizes": "48x48"
     },
