@@ -1,8 +1,8 @@
 {
   "type": "app",
-  "id": "28823170-1203-46d1-81d5-eea67abae41c",
-  "name": "app-management",
-  "title": "App Management",
+  "id": "34423170-1203-46d1-81d5-eea67abae42d",
+  "name": "app-manager",
+  "title": "App Manager",
   "coreApp": true,
   "minDHIS2Version": "2.37",
   "version": "100.2.32",

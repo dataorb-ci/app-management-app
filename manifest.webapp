@@ -1,8 +1,8 @@
 {
-  "app_hub_id": "28823170-1203-46d1-81d5-eea67abae41c",
+  "app_hub_id": "34423170-1203-46d1-81d5-eea67abae42d",
   "appType": "APP",
-  "short_name": "app-management",
-  "name": "App Management",
+  "short_name": "app-manager",
+  "name": "App Manager",
   "description": "The Application Management App provides the ability to upload webapps in .zip files, as well as installing apps directly from the official DHIS 2 App Store",
   "version": "100.2.32",
   "core_app": true,
